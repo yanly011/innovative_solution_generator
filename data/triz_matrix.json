@@ -1,0 +1,17 @@
+{
+  "speed": [[15, "Dynamics"], [10, "Preliminary Action"]],
+  "precision": [[13, "The Other Way Around"], [3, "Local Quality"]],
+  "temperature": [[39, "Inert Atmosphere"], [36, "Phase Transitions"]],
+  "energy": [[19, "Periodic Action"], [25, "Self-service"]],
+  "strength": [[8, "Anti-weight"], [35, "Parameter Changes"]],
+  "flexibility": [[15, "Dynamics"], [30, "Flexible Membranes"]],
+  "size": [[1, "Segmentation"], [2, "Taking Out"]],
+  "cost": [[26, "Copying"], [27, "Cheap Disposable"]],
+  "time": [[10, "Preliminary Action"], [20, "Continuity of Useful Action"]],
+  "automation": [[28, "Mechanics Substitution"], [24, "Mediator"]],
+  "privacy": [[32, "Color Changes"], [40, "Composite Materials"]],
+  "accuracy": [[13, "Inversion"], [21, "Skipping"]],
+  "reliability": [[11, "Cushion in Advance"], [14, "Spheroidality"]],
+  "complexity": [[2, "Taking Out"], [34, "Discarding and Recovering"]],
+  "usability": [[22, "Blessing in Disguise"], [23, "Feedback"]]
+}
